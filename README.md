@@ -2,7 +2,7 @@
 
 https://dall-e-seeit-frontend.onrender.com
 
-A MERN stack application that integrates OpenAI's image generation API to create and share AI-generated images based on user prompts. The project combines a sleek user interface with robust backend features, enabling seamless collaboration and efficient post management.
+A $${\color{red}MERN}$$ stack application that integrates OpenAI's image generation API to create and share AI-generated images based on user prompts. The project combines a sleek user interface with robust backend features, enabling seamless collaboration and efficient post management.
 
 ## Features
 
